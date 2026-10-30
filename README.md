@@ -1,2 +1,2 @@
 # Khoury-Thing
-I LOVE KHOURY COLLEGE I LOVE PUSHING ASSIGNMENTS TO MY OWN PERSONAL PUBLIC REPO FOR NO REASON I LOVE NETANYAHUA.
+I was required to make this by my intro to college class.
